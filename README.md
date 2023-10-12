@@ -22,4 +22,4 @@ cd ImageColorizer
 ```
 python imagecolorizer.py --image <path_to_image>
 ```
-This script requires one argument to be passed to the script directly from the terminal, i.e. **--image** or **-i** which is the path to our input black/white image. All the colorized image will be saved in `output` fold
+This script requires one argument to be passed to the script directly from the terminal, i.e. **--image** or **-i** which is the path to our input black/white image. All the colorized images will be saved in the `output` fold
