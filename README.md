@@ -12,7 +12,7 @@ Transform black and white images into beautifully colored images using Deep Lear
 
 - Clone this Repository
 ```
-git clone https://github.com/ayanbag/ImageColorizer.git
+git clone https://github.com/noorkhokhar99/Image-Colorizer.git
 cd ImageColorizer
 ```
 
